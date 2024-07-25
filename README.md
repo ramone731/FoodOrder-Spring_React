@@ -26,9 +26,9 @@ To get a local copy of the project up and running follow these steps:
 
 Prerequisites
 Java JDK (version 17)
-Node.js (version X.X.X)
+Node.js 
 MySQL Workbench: 8.0.36
-MySQL Server (version X.X.X)
+MySQL Server 
 IDE (IntelliJ IDEA Ultimate/Eclipse/VS Code)
 
 Installation
